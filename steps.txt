@@ -1,0 +1,309 @@
+1  python
+    2  cd
+    3  ls
+    4  python
+    5  open .
+    6  code .
+    7  java
+    8  vscode
+    9  git
+   10  git
+   11  ls
+   12  code .
+   13  ls
+   14  git
+   15  ls
+   16  ls
+   17  cd
+   18  ls
+   19  python3
+   20  python
+   21  wow
+   22  jupyter
+   23  code
+   24  java
+   25  open .
+   26  jupyter
+   27  jupyter-notebook
+   28  source /Users/macbook/opt/anaconda3/bin/activate base
+   29  /Users/macbook/opt/anaconda3/bin/python
+   30  docker
+   31  sudo snap install microk8s --classic
+   32  cd
+   33  root
+   34  vf
+   35  cd
+   36  sudo install microk8s --classic
+   37  sudo snap install microk8s --classic
+   38  sudo
+   39  brew install kubectl
+   40  sudo port selfupdate
+   41  curl -LO "https://dl.k8s.io/release/$(curl -L -s https://dl.k8s.io/release/stable.txt)/bin/darwin/amd64/kubectl"
+   42  curl -LO "https://dl.k8s.io/release/$(curl -L -s https://dl.k8s.io/release/stable.txt)/bin/darwin/amd64/kubectl.sha256"
+   43  echo "$(cat kubectl.sha256)  kubectl" | shasum -a 256 --check
+   44  echo "$(cat kubectl.sha256)  kubectl" | shasum -a 256 --check
+   45  chmod +x ./kubectl
+   46  sudo mv ./kubectl /usr/local/bin/kubectl
+   47  sudo chown root: /usr/local/bin/kubectl
+   48  sudo mv ./kubectl /usr/local/bin/kubectl
+   49  sudo chown root: /usr/local/bin/kubectl
+   50  mkdir /usr/local/bin/kubectl
+   51  kubectl version --client
+   52  ls
+   53  echo $PATH
+   54  conda deactivate
+   55  conda deactivate
+   56  echo $PATH
+   57  sudo mv ./kubectl /usr/local/bin/kubectl
+   58  cd usr
+   59  export PATH=/usr/local/bin:$PATH
+   60  sudo mv ./kubectl /usr/local/bin/kubectl
+   61  echo $PATH
+   62  mkdir /usr/local/bin/kubectl
+   63  echo $PATH
+   64  sudo mv ./kubectl /usr/local/bin/
+   65  sudo mv ./kubectl /usr/local/bin
+   66  sudo chown root: /usr/local/bin/kubectl
+   67  kubectl version --client
+   68  cd usr
+   69  cd /usr/local/bin/
+   70  sudo mv ./kubectl /usr/local/bin/kubectl
+   71  sudo chown root: /usr/local/bin
+   72  kubectl version --client
+   73  brew install kubectl
+   74  git clone https://github.com/Homebrew/brew homebrew
+   75  brew
+   76  brew
+   77  echo $PATH
+   78  ls /usr/local/bin
+   79  ls /usr/local/bin/
+   80  ls /usr/local/bin
+   81  ls
+   82  ls
+   83  ls
+   84  ls
+   85  ls
+   86  history
+   87  docker
+   88  docker
+   89  docker
+   90  docker run --name repo alpine/git clone https://github.com/docker/getting-started.git
+   91  docker cp repo:/git/getting-started/ .
+   92  docker run --name repo alpine/git clone https://github.com/docker/getting-started.git
+   93  docker cp repo:/git/getting-started/ .
+   94  docker run --name repo alpine/git clone https://github.com/docker/getting-started.git
+   95  docker cp repo:/git/getting-started/ .
+   96  cd getting-started
+   97  docker build -t docker101tutorial .
+   98  cd getting-started
+   99  docker build -t docker101tutorial .
+  100  cd getting-started
+  101  docker build -t docker101tutorial .
+  102  cd getting-started
+  103  docker build -t docker101tutorial .
+  104  docker run -d -p 80:80 --name docker-tutorial docker101tutorial
+  105  docker run --name repo alpine/git clone https://github.com/docker/getting-started.git
+  106  docker cp repo:/git/getting-started/ .
+  107  docker run --name repo alpine/git clone https://github.com/docker/getting-started.git
+  108  docker cp repo:/git/getting-started/ .
+  109  docker run --name repo alpine/git clone https://github.com/docker/getting-started.git
+  110  docker cp repo:/git/getting-started/ .
+  111  docker run --name repo alpine/git clone https://github.com/docker/getting-started.git
+  112  docker cp repo:/git/getting-started/ .
+  113  docker run --name repo alpine/git clone https://github.com/docker/getting-started.git
+  114  docker cp repo:/git/getting-started/ .
+  115  docker run --name repo alpine/git clone https://github.com/docker/getting-started.git
+  116  docker cp repo:/git/getting-started/ .
+  117  docker run --name repo alpine/git clone https://github.com/docker/getting-started.git
+  118  docker cp repo:/git/getting-started/ .
+  119  docker run --name repo alpine/git clone https://github.com/docker/getting-started.git
+  120  docker cp repo:/git/getting-started/ .
+  121  docker
+  122  docker
+  123  docker version
+  124  curl -sSL https://get.docker.com/ | sudo sh
+  125  export PATH="/usr/local/bin:$PATH"
+  126  docker
+  127  echo Path
+  128  echo $PATH
+  129  /Applications/Docker.app/Contents/Resources/bin/docker --version
+  130  docker --version
+  131  export PATH="/Applications/Docker.app/Contents/Resources/bin/docker :$PATH"
+  132  docker
+  133  brew install docker-machine docker
+  134  vi ~/.zshrc
+  135  source ~/.zshrc
+  136  docker
+  137  docker
+  138  docker --version
+  139  docker cp repo:/git/getting-started/ .
+  140   docker run --name repo alpine/git clone https:
+  141  docker cp repo:/git/getting-started/ .
+  142  docker
+  143  docker --version
+  144  docker
+  145  docker build up
+  146  docker build
+  147  cd
+  148  ls
+  149  cd Downloads/
+  150  ls
+  151  cd publish-zookeeper-kafka
+  152  ls
+  153  docker-compose up
+  154  cd Downloads/
+  155  ls
+  156  mv . /Users/macbook/Downloads/A/
+  157  mv . /Users/macbook/Downloads/A/.
+  158  mv * /Users/macbook/Downloads/A/
+  159  mv * /Users/macbook/Downloads/A/A
+  160  cp * /Users/macbook/Downloads/A/
+  161  cp * /Users/macbook/Downloads/A/.
+  162  cp * /Users/macbook/Downloads/A
+  163  ls
+  164  cd Downloads/
+  165  ls
+  166  mv * A/
+  167  mv . A
+  168  mv . A/.
+  169  cd ..
+  170  mv Desktop/. Documents/A
+  171  mv Desktop/* Documents/A/
+  172  mv Desktop/* Documents/A/.
+  173  mv Desktop/*.png Documents/A/
+  174  mv Desktop/*.png Documents/A
+  175  mv Desktop/*.png Documents/A/
+  176  mv -v Desktop/* Downloads/A/
+  177  mv -v Documents/* Downloads/A/
+  178  find Downloads/ -maxdepth 1 -type f -print0 | xargs -0 mv -t Downloads/Unclassified/
+  179  find Downloads/ -maxdepth 1 -type f -print0 | xargs -0 mv -t Downloads/Unclassified
+  180  find Downloads/ -maxdepth 1 -type f -print0 | xargs -0 mv -t Downloads/Unclassified
+  181  find Downloads/ -maxdepth 1 -type f -print0 | xargs -0 mv Downloads/Unclassified
+  182  cd ..
+  183  cd ..
+  184  ls
+  185  cd Shared/
+  186  ls
+  187  cd Relocated\ Items/
+  188  ls
+  189  open Quarantine.lpdf/
+  190  ls
+  191  cd ..
+  192  cd ..
+  193  cd ..
+  194  cd
+  195  cd
+  196  open .
+  197  conda activate base
+  198  python3
+  199  conda activate base
+  200  /Users/macbook/opt/anaconda3/bin/python
+  201  conda activate base
+  202  /Users/macbook/opt/anaconda3/bin/python "/Users/macbook/Downloads/A/quadraticeqn/Quadratic-Equation-Solver/Quadratic Equation Solver.py"
+  203  /Users/macbook/opt/anaconda3/bin/python "/Users/macbook/Downloads/A/quadraticeqn/Quadratic-Equation-Solver/Quadratic Equation Solver.py"
+  204  touch run.py
+  205  mv run.py Quadratic-Equation-Solver/
+  206  cd Quadratic-Equation-Solver/
+  207  ls
+  208  python3 run.py 
+  209  python3 run.py 
+  210  /Users/macbook/opt/anaconda3/bin/python /Users/macbook/Downloads/A/quadraticeqn/run.py
+  211  /Users/macbook/opt/anaconda3/bin/python /Users/macbook/Downloads/A/quadraticeqn/run.py
+  212  docker build
+  213  docker build -t your-image-name .
+  214  git status
+  215  git add 
+  216  git add .
+  217  git commit -m "docker and jenkins"
+  218  git push
+  219  touch Dockerfile
+  220  docker build -t your-image-name .
+  221  pip install --upgrade p
+  222  pip install --upgrade pip
+  223  docker build -t your-image-name .
+  224  docker build -t your-image-name .
+  225  /Users/macbook/opt/anaconda3/bin/python /Users/macbook/Downloads/A/quadraticeqn/Quadratic-Equation-Solver/run.py
+  226  docker push docker.io/library/your-image-name
+  227  docker push docker.io/library/your-image-name
+  228  docker push
+  229  docker login
+  230  docker push docker.io/library/your-image-name
+  231  docker tag local-image:tagname username/repository:tagname
+  232  docker tag local-image:your-image-name apargc/repository:your-image-name
+  233  docker tag
+  234  docker tag -help
+  235  /Users/macbook/opt/anaconda3/bin/python /Users/macbook/Downloads/A/quadraticeqn/Quadratic-Equation-Solver/run.py
+  236  /Users/macbook/opt/anaconda3/bin/python /Users/macbook/Downloads/A/quadraticeqn/Quadratic-Equation-Solver/run.py
+  237  ls
+  238  brew
+  239  /Users/macbook/opt/anaconda3/bin/python /Users/macbook/Downloads/A/quadraticeqn/Quadratic-Equation-Solver/run.py
+  240  /Users/macbook/opt/anaconda3/bin/python /Users/macbook/Downloads/A/quadraticeqn/Quadratic-Equation-Solver/run.py
+  241  docker run -it --rm --name my-container my-image /bin/bash
+  242  docker login
+  243  docker run -it --rm --name my-container my-image /bin/bash
+  244  docker run -it --rm --name my-container quadratic /bin/bash
+  245  docker push docker.io/library/quadratic
+  246  /Users/macbook/opt/anaconda3/bin/python /Users/macbook/Downloads/A/quadraticeqn/Quadratic-Equation-Solver/run.py
+  247  clear
+  248  code .
+  249  ls
+  250  cd facerecognition/
+  251  ls
+  252  open .
+  253  cd ..
+  254  mkdir nlp_transformers
+  255  pwd
+  256  conda activate base
+  257  /Users/macbook/opt/anaconda3/bin/python Untitled-1
+  258  /Users/macbook/opt/anaconda3/bin/python /Users/macbook/nlp_transformers/main.py
+  259  pip3 install jinja2
+  260  pip install --upgrade jinja2
+  261  pip uninstall jinja2
+  262  pip install jinja2
+  263  /Users/macbook/opt/anaconda3/bin/python /Users/macbook/nlp_transformers/questionans.py
+  264  /Users/macbook/opt/anaconda3/bin/python /Users/macbook/nlp_transformers/questionans.py
+  265  pip install transformers datasets
+  266  /Users/macbook/opt/anaconda3/bin/python /Users/macbook/nlp_transformers/profiling.py
+  267  /Users/macbook/opt/anaconda3/bin/python /Users/macbook/nlp_transformers/profiling.py
+  268  rm profiling.py 
+  269  /Users/macbook/opt/anaconda3/bin/python /Users/macbook/nlp_transformers/chatgot.py
+  270  conda activate base
+  271  /Users/macbook/opt/anaconda3/bin/python /Users/macbook/chatbotapp/app/app.py
+  272  python -m venv myenv
+  273  source myenv/bin/activate
+  274  cd app
+  275  python3 app.py 
+  276  pip install flask
+  277  pip install flask
+  278  python3 app.py 
+  279  pip install chatterbot
+  280  /Users/macbook/chatbotapp/myenv/bin/python /Users/macbook/chatbotapp/app/app.py
+  281  python3 app.py 
+  282  pip3 install chatterbot
+  283  pip3 install chatterbot
+  284  /Users/macbook/chatbotapp/myenv/bin/python -m pip install --upgrade pip
+  285  pip install chatterbot
+  286  conda install chatterbot
+  287  pip install ChatterBot
+  288  pip install wheel --upgrade
+  289  pip install ChatterBot
+  290  /Users/macbook/chatbotapp/myenv/bin/python /Users/macbook/chatbotapp/app/app.py
+  291  sudo apt-get install build-essential
+  292  pip install preshed
+  293  pip install blis
+  294  pip install ChatterBot
+  295  pip install chatterbot==1.0.4
+  296  /Users/macbook/chatbotapp/myenv/bin/python /Users/macbook/chatbotapp/app/app.py
+  297  /Users/macbook/chatbotapp/myenv/bin/python /Users/macbook/chatbotapp/app/app.py
+  298  pip install pytz
+  299  python3 app.py 
+  300  python3 app.py 
+  302  mkdir Templates
+  305  python3 app/app.py 
+  306  python3 app/app.py 
+  307  python3 app/app.py 
+  308  pip freeze > requirement.txt
+  309  /Users/macbook/chatbotapp/myenv/bin/python /Users/macbook/chatbotapp/app/app.py
+  310  pip install torch transformers
+  311  pip upgrade pyyaml
+  312  pip install pyyaml --force

@@ -1,4 +1,6 @@
 #imports
+import os
+os.environ['CURL_CA_BUNDLE'] = ''
 from flask import Flask, render_template, request
 # from chatterbot import ChatBot
 # from chatterbot.trainers import ChatterBotCorpusTrainer
