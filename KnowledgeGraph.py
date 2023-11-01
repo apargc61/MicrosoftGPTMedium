@@ -19,10 +19,10 @@ knowledge_graph = nx.Graph()
 # Process each text and extract entities and relationships
 for text in text_data:
     doc = nlp(text)
-    
+    print("doc", doc)
     # Extract entities (e.g., organizations, persons)
     entities = [ent.text for ent in doc.ents]
-    
+    print("entitits", entities)
     # Create nodes for entities if they don't exist in the graph
     for entity in entities:
         if not knowledge_graph.has_node(entity):
@@ -30,7 +30,7 @@ for text in text_data:
     
     # Extract relationships (e.g., "is headquartered in")
     relationships = [(token.head.text, token.text) for token in doc if token.dep_ == "prep"]
-    
+    print("relationships", relationships)
     # Create edges for relationships in the graph
     for relationship in relationships:
         knowledge_graph.add_edge(relationship[0], relationship[1])
